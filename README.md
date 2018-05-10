@@ -1,6 +1,6 @@
 # CryptoFest - seminář
 
-## Tento seminář je letos zaměřen na co mají zájem o bezpečnost.
+## Tento seminář je letos zaměřen na ty, co mají zájem o bezpečnost.
 
 ## Proběhne v sobotu 26. 5. od 10:00 v posluchárně 107 na [FIT CVUT](https://www.fit.cvut.cz) společne s [openSUSE Conference](https://events.opensuse.org/conference/oSC18)
 
