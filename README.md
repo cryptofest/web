@@ -60,6 +60,16 @@ Nowadays there is zero quality control being enforced over internet connected de
 
 
 * 16:00 - 16:30 [Karel Kočí](https://twitter.com/karel_koci) - **Bezpečné doručení distribučních balíčků**
+ 
+ Většina linuxových distribucí distribuuje software ve formě binárních balíčků. Ty
+jsou připraveny na serverech distribuce a uživatelé si je stahují přes internet do
+svých počítačů. Pokud se útočníkovi podaří do balíčků dostat malware tak může
+jednoduše ovládnout velké množství zařízení.
+
+ V této prezentaci se dozvíte jak může takový útok být veden a jak se distribuce
+proti těmto útokům chrání. Bude řeč o hashích, podepisování souborů, https,
+certification pinningu a DNSSECu. Dohromady tyto technologie zabezpečují updaty
+vašich systémů a přímo tak přispívají k zabezpečení internetu.
 
 
 * 16:30 - 17:10 - Lightning talks (add in repo :) 
