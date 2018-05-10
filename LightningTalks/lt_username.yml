@@ -1,0 +1,8 @@
+#YML file for add Lightning talk
+#Make copy and edit :) send pullreq to this repo 
+
+name: name
+twitter: @username_at_twitter
+time: 7
+talk: talk_name
+abstrakt: 'Short text about short talk'
