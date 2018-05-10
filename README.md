@@ -62,4 +62,4 @@ Nowadays there is zero quality control being enforced over internet connected de
 
  Jak funguje PGP? Přidtě si naučit a vyzkoušet si podepisování a šifrování s PGP
 
-# 17:15 PGP key singning PARTY před místností 105
+# 17:15 PGP key singning PARTY před místností 105. Co a jak najdete na  [https://github.com/cryptofest/keysigning-guide](https://github.com/cryptofest/keysigning-guide)
