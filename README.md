@@ -2,7 +2,11 @@
 
 ## Tento seminář je letos zaměřen na co mají zájem o bezpečnost.
 
-## Proběhne v sobotu 26. 5. od 10:00 v posluchárně 107 na [FIT CVUT](https://www.fit.cvut.cz) společne s [openSUSE Conference](https://events.opensuse.org/conference/oSC18)
+## Proběhne v sobotu 26. 5. od 10:00 v posluchárně 107 na [FIT CVUT](https://www.fit.cvut.cz) společne s [openSUSE Conference](https://events.opensuse.org/conference/oSC18) - [FB event](https://www.facebook.com/events/245865962642839/)
+
+### Registrace 
+
+Registrace se provadí * na tomto projektu 
 
 ### Program
 
