@@ -11,7 +11,11 @@ Registrace se provadí * na tomto projektu
 ### Program
 
 
-* 10:00 - 10:50 - Ondřej Caletka - **Jak šifrovat disk**
+* 10:00 - 10:50 - Ondřej Caletka - **Plně šifrovaný disk na moderním systému**
+
+ Šifrování pevného disku je dnes běžná záležitost, šifrovat ale úplně celý disk je vždycky trochu oříšek. V přednášce si předvedeme, jak nastavit takové šifrování, které bude zároveň uživatelsky přívětivé i rozumně bezpečné. Použijeme přitom tyto ingredience: Btrfs, LVM, LUKS, GRUB, UEFI secure boot.
+
+
 
 * 11:00 - 11:45 Petr Krčmář - **Role certifikátu při zabezpečení šifrovaného spojení**
 
