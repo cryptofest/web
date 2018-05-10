@@ -11,13 +11,13 @@ Registrace se provadí * na tomto projektu
 ### Program
 
 
-* 10:00 - 10:50 - Ondřej Caletka - **Plně šifrovaný disk na moderním systému**
+* 10:00 - 10:50 - [Ondřej Caletka](https://twitter.com/oskar456) - **Plně šifrovaný disk na moderním systému**
 
  Šifrování pevného disku je dnes běžná záležitost, šifrovat ale úplně celý disk je vždycky trochu oříšek. V přednášce si předvedeme, jak nastavit takové šifrování, které bude zároveň uživatelsky přívětivé i rozumně bezpečné. Použijeme přitom tyto ingredience: Btrfs, LVM, LUKS, GRUB, UEFI secure boot.
 
 
 
-* 11:00 - 11:45 Petr Krčmář - **Role certifikátu při zabezpečení šifrovaného spojení**
+* 11:00 - 11:45 [Petr Krčmář](https://twitter.com/krcmar) - **Role certifikátu při zabezpečení šifrovaného spojení**
 
  Šifrování se stává stále běžnějším a dostupnějším, většina navštěvovaných webů dnes má HTTPS. Neodmyslitelnou součástí dobře navrženého šifrování je také autentizace. V případě TLS se o ni starají certifikáty. Co to přesně certifikát je, jaká je jeho role a co všechno v něm najdeme?
 
@@ -35,7 +35,7 @@ It will also focus on the status of openSUSE, for example how are the web browse
 
  
 
-* 14:00 - 14:45 - David Bečvařík - **Let's talk about containers and security**
+* 14:00 - 14:45 - [David Bečvařík](https://twitter.com/dbecvarik) - **Let's talk about containers and security**
 
  Containers are becoming more and more popular way how we develop and deploy applications. We trust them to protect our applications, but do we understand how they security model works? How they're isolated and sand-boxed? Let's look at all the pieces in Linux which are there to isolate and support containers security. We will then continue with overview what every deployment pipeline should perform to maintain secure and  not vulnerable container images. At the end we will speak about common mistakes we do and which really lowers protection of ours containerized applications. 
 
@@ -59,14 +59,14 @@ Nowadays there is zero quality control being enforced over internet connected de
  What does this standard encompass? What does open-source and free software have to do with this? Let’s have a closer look in this talk!
 
 
-* 16:00 - 16:30 Karel Kočí - **Bezpečné doručení distribučních balíčků**
+* 16:00 - 16:30 [Karel Kočí](https://twitter.com/karel_koci) - **Bezpečné doručení distribučních balíčků**
 
 
 * 16:30 - 17:10 - Lightning talks (add in repo :) 
 
 ##Workshop
 
-* 15:30 - 16:45 - Jan Bayer + Pavel Dostál - **Jak na PGP**
+* 15:30 - 16:45 - Jan Bayer + [Pavel Dostál](https://twitter.com/pdostal_cz) - **Jak na PGP**
 
  Jak funguje PGP? Přidtě si naučit a vyzkoušet si podepisování a šifrování s PGP
 
