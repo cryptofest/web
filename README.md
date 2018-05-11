@@ -17,10 +17,31 @@ Registrace se provadí * na tomto projektu
 
 
 
-* 11:00 - 11:45 [Petr Krčmář](https://twitter.com/krcmar) - **Role certifikátu při zabezpečení šifrovaného spojení**
+* 11:00 - 11:45 - Marcus Meissner - **Security Retrospective of the last year** 
 
- Šifrování se stává stále běžnějším a dostupnějším, většina navštěvovaných webů dnes má HTTPS. Neodmyslitelnou součástí dobře navrženého šifrování je také autentizace. V případě TLS se o ni starají certifikáty. Co to přesně certifikát je, jaká je jeho role a co všechno v něm najdeme?
+ Last year was a quite busy year on the security front, various big issues 
+happened, so its good to tell what security has done there and is doing for 
+openSUSE and SUSE in general here.
+ 
+ The talk will give a brief overview of how the SUSE Security Team works 
+and operates. We will look at the reactive work including statistics, 
+and also look at proactive secure development lifecycle activities.
 
+ I will also highlight some of the big security issues we faced over the 
+last year.
+
+ Stack Clash from mid of 2017.
+
+ Overview of the problem, what we do for mitigations, and our long way 
+for compiler mitigations.
+
+ Meltdown and Spectre
+
+ As we hoped never to have a StackClash like issue again, CPU sidechannel 
+issues surfaced which needed kernel mitigations begin of January.
+
+ I will give an overview over what these issues are, and how 
+we mitigated them or are still mitigating them.
 
 * 13:00 - 13:45 - Vítězslav Čížek - **Introduction to TLS 1.3**
 
@@ -58,8 +79,11 @@ Nowadays there is zero quality control being enforced over internet connected de
 
  What does this standard encompass? What does open-source and free software have to do with this? Let’s have a closer look in this talk!
 
+* 16:00 - 16:45 [Petr Krčmář](https://twitter.com/krcmar) - **Role certifikátu při zabezpečení šifrovaného spojení**
 
-* 16:00 - 16:30 [Karel Kočí](https://twitter.com/karel_koci) - **Bezpečné doručení distribučních balíčků**
+ Šifrování se stává stále běžnějším a dostupnějším, většina navštěvovaných webů dnes má HTTPS. Neodmyslitelnou součástí dobře navrženého šifrování je také autentizace. V případě TLS se o ni starají certifikáty. Co to přesně certifikát je, jaká je jeho role a co všechno v něm najdeme?
+
+* 17:00 - 17:30 [Karel Kočí](https://twitter.com/karel_koci) - **Bezpečné doručení distribučních balíčků**
  
  Většina linuxových distribucí distribuuje software ve formě binárních balíčků. Ty
 jsou připraveny na serverech distribuce a uživatelé si je stahují přes internet do
@@ -72,12 +96,12 @@ certification pinningu a DNSSECu. Dohromady tyto technologie zabezpečují updat
 vašich systémů a přímo tak přispívají k zabezpečení internetu.
 
 
-* 16:30 - 17:10 - Lightning talks (add in repo :) 
+* 17:30 - 17:55 - Lightning talks (add in repo :) 
 
-##Workshop
+## Workshop
 
 * 15:30 - 16:45 - Jan Bayer + [Pavel Dostál](https://twitter.com/pdostal_cz) - **Jak na PGP**
 
  Jak funguje PGP? Přidtě si naučit a vyzkoušet si podepisování a šifrování s PGP
 
-# 17:15 PGP key singning PARTY před místností 105. Co a jak najdete na  [https://github.com/cryptofest/keysigning-guide](https://github.com/cryptofest/keysigning-guide)
+# 17:59 PGP key singning PARTY před místností 105. Co a jak najdete na  [https://github.com/cryptofest/keysigning-guide](https://github.com/cryptofest/keysigning-guide)
