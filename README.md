@@ -100,7 +100,7 @@ vašich systémů a přímo tak přispívají k zabezpečení internetu.
 
 ## Workshop
 
-* 15:30 - 16:45 - Jan Bayer + [Pavel Dostál](https://twitter.com/pdostal_cz) - **Jak na PGP**
+* 15:30 - 16:45 - Jan Baier + [Pavel Dostál](https://twitter.com/pdostal_cz) - **Jak na PGP**
 
  Jak funguje PGP? Přidtě si naučit a vyzkoušet si podepisování a šifrování s PGP
 
