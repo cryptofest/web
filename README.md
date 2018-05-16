@@ -108,8 +108,8 @@ vašich systémů a přímo tak přispívají k zabezpečení internetu.
 
 ## Partneři
 
-(FIT ČVUT)[https://fit.cvut.cz/] (vpsFree)[https://vpsfree.cz/] 
+[FIT ČVUT](https://fit.cvut.cz/) [vpsFree](https://vpsfree.cz/) 
 
 ## Organizátor 
 
-(Klub Silicon Hill)[https://www.siliconhill.cz/] 
+[Klub Silicon Hill](https://www.siliconhill.cz/)
