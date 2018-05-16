@@ -2,7 +2,7 @@
 
 ## Tento seminář je letos zaměřen na ty, co mají zájem o bezpečnost.
 
-## Proběhne v sobotu 26. 5. od 10:00 v posluchárně 107 na [FIT CVUT](https://www.fit.cvut.cz) společne s [openSUSE Conference](https://events.opensuse.org/conference/oSC18) - [FB event](https://www.facebook.com/events/245865962642839/) [#CryptoFest](https://twitter.com/search?f=tweets&vertical=default&q=%23CryptoFest&src=typd)
+## Proběhne v sobotu 26. 5. od 10:00 v posluchárně 107 na [FIT CVUT](https://www.fit.cvut.cz) společně s [openSUSE Conference](https://events.opensuse.org/conference/oSC18) - [FB event](https://www.facebook.com/events/245865962642839/) [#CryptoFest](https://twitter.com/search?f=tweets&vertical=default&q=%23CryptoFest&src=typd)
 
 ### Registrace 
 
@@ -104,4 +104,12 @@ vašich systémů a přímo tak přispívají k zabezpečení internetu.
 
  Jak funguje PGP? Přidtě si naučit a vyzkoušet si podepisování a šifrování s PGP
 
-# 17:59 PGP key singning PARTY před místností 105. Co a jak najdete na  [https://github.com/cryptofest/keysigning-guide](https://github.com/cryptofest/keysigning-guide)
+## 17:59 PGP key singning PARTY před místností 105. Co a jak najdete na  [https://github.com/cryptofest/keysigning-guide](https://github.com/cryptofest/keysigning-guide)
+
+## Partneři
+
+(FIT ČVUT)[https://fit.cvut.cz/] (vpsFree)[https://vpsfree.cz/] 
+
+## Organizátor 
+
+(Klub Silicon Hill)[https://www.siliconhill.cz/] 
