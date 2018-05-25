@@ -96,7 +96,14 @@ certification pinningu a DNSSECu. Dohromady tyto technologie zabezpečují updat
 vašich systémů a přímo tak přispívají k zabezpečení internetu.
 
 
-* 17:30 - 17:55 - Lightning talks (add in repo :) 
+* 17:30 - 17:45 - Jan Dušátko -  Ochrana proti HashCat
+
+ Hashcat je pro správce databází hesel dost nepřjemný. Ale i
+on má své slabiny.
+
+
+* 17:45 - 17:55 - Lightning talks (add in repo :) 
+
 
 ## Workshop
 
