@@ -1,6 +1,9 @@
 # CryptoFest - seminář
 
-## [Stream](https://www.youtube.com/watch?v=XGOUNxWJ9mg)
+## Stream
+ - [Live stream](https://www.youtube.com/watch?v=XGOUNxWJ9mg)
+ - [Slides-only stream](https://www.youtube.com/watch?v=M8byBBJU_xQ) - for those in room with vision issues
+ - [Playlist with all recordings](https://www.youtube.com/watch?v=kXGzezSSWEY&list=PLofm6RaC_O5oKTiq4kf4djzDMrU1zFGZg)
 
 ## Tento seminář je letos zaměřen na ty, co mají zájem o bezpečnost.
 
@@ -15,11 +18,16 @@ Registrace se provadí kliknutím na hvezdičku na tomto projektu zde na GitHubu
 
 * 10:00 - 10:50 - [Ondřej Caletka](https://twitter.com/oskar456) - **Plně šifrovaný disk na moderním systému**
 
+ - [slides](https://xn--ondej-kcb.caletka.cz/dl/slidy/20180526-CryptoFest-Plne_sifrovany_disk_na_modernim_systemu.pdf)
+ - [video](https://www.youtube.com/watch?v=kXGzezSSWEY)
+
  Šifrování pevného disku je dnes běžná záležitost, šifrovat ale úplně celý disk je vždycky trochu oříšek. V přednášce si předvedeme, jak nastavit takové šifrování, které bude zároveň uživatelsky přívětivé i rozumně bezpečné. Použijeme přitom tyto ingredience: Btrfs, LVM, LUKS, GRUB, UEFI secure boot.
 
 
 
 * 11:00 - 11:45 - Marcus Meissner - **Security Retrospective of the last year** 
+
+ - [video](https://www.youtube.com/watch?v=hBCB3XOS5HQ)
 
  Last year was a quite busy year on the security front, various big issues 
 happened, so its good to tell what security has done there and is doing for 
