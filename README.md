@@ -107,7 +107,7 @@ on má své slabiny.
 * 17:45 - 17:55 - Lightning talks (add in repo :) 
 
 
-## Workshop
+## Workshop - 351
 
 * 15:30 - 16:45 - Jan Baier + [Pavel Dostál](https://twitter.com/pdostal_cz) - **Jak na PGP**
 
