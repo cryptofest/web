@@ -66,9 +66,8 @@ It will also focus on the status of openSUSE, for example how are the web browse
 
  
 
-* 14:00 - 14:45 - [David Bečvařík](https://twitter.com/dbecvarik) - **Let's talk about containers and security**
+* 14:00 - 14:45 - Panos Georgiadis - **Let's talk about containers and security**
 
- Containers are becoming more and more popular way how we develop and deploy applications. We trust them to protect our applications, but do we understand how they security model works? How they're isolated and sand-boxed? Let's look at all the pieces in Linux which are there to isolate and support containers security. We will then continue with overview what every deployment pipeline should perform to maintain secure and  not vulnerable container images. At the end we will speak about common mistakes we do and which really lowers protection of ours containerized applications. 
 
 
 * 15:00 - 15:45 - Hans de Raad  - **The new EU CyberSecurity Act**
